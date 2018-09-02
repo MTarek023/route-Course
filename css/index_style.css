@@ -5,6 +5,54 @@
 }
 
 
+ fieldset{
+            background-color:#d9e6eb;
+            font-family: cursive;
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin-bottom: 10px;
+            
+        }
+        legend{
+            background-color:gainsboro;
+            border: 1px soild #cccc;
+            padding: 5px;        }
+
+              
+           
+        
+        label
+        {
+            margin-bottom: 10px;
+            display: block;
+        }
+        input{
+            margin-bottom: 10px;}
+           
+        input[type="text"]input[type="password"]{padding: 8px; width: 300px; display: block}   
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 nav ul
 {
     background-color: #243546;
